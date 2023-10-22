@@ -1,12 +1,10 @@
 ### Hi there , I'm [Roberto Molina !]👋
 
 A passionate self for tech and software engineering from Brazil
+I'm open to work!
 
-- 🔭 I’m currently working on something cool .
-- 🌱 I’m currently learning Spring Boot, React, JavaScript, MySQL, Machine Learning and IA.
-- 📫 How to reach me: roberto.molina.dev@gmail.com
-
-**Connect with me :**
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning React.js | Node | Java | Spring Boot | JavaScript | MySQL | Machine Learning | IA
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -26,4 +24,9 @@ A passionate self for tech and software engineering from Brazil
 **Github Stats:**
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasmolina&show_icons=true&include_all_commits=true&theme=dark" alt="Roberto's github stats" />
+
+**Contact-me!**
+
+  <a href = "mailto:roberto.molinadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roberto-molina-4b825728a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
