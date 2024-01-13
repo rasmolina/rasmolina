@@ -4,7 +4,7 @@ A passionate self for tech and software engineering from Brazil
 I'm open to work!
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning React.js | Node | Java | Spring Boot | JavaScript | MySQL | Machine Learning | IA
+- 🌱 I’m currently learning Node.js | Java Script | MySQL and others DB | Python | Machine Learning | AI | AWS
 
 <!--
 - 👯 I’m looking to collaborate on ...
